@@ -67,3 +67,6 @@ cargo nextest 是一个 Rust 增强测试工具。
 ```bash
 cargo install cargo-nextest --locked
 ```
+## 安装后操作
+请将`LICENSE`文件替换为您需要的对应的许可证文件。
+请将`cliff.toml`文件第49行的链接替换为您的仓库地址。
